@@ -1,0 +1,198 @@
+
+body {
+	font-family: 'Poppins', sans-serif;
+	color: #333;
+}
+ul {
+	margin: 0;
+}
+ul li{
+	list-style: none;
+}
+a, a:hover{
+	text-decoration: none;
+	display: inline-block;
+}
+input, button{
+	outline: none;
+}
+img{
+	max-width: 100%;
+}
+section {
+	padding: 130px 0;
+}
+.heading{
+    margin-bottom: 100px;
+}
+.heading h2{
+    max-width: 700px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.heading p{
+    max-width: 530px;
+    margin: 0 auto;
+}
+ /****** cta-section ********/
+.cta-section {}
+.cta-section h1{
+    padding-right: 55px;
+    margin-bottom: 30px;
+}
+.cta-section p{
+    padding-right: 90px;
+}
+.cta-section .cta-btn{
+    background: #237be5;
+    padding: 15px 25px;
+    color: #fff;
+    font-weight: 500;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.cta-section .transparent-btn{
+    padding: 15px 25px;
+    font-weight: 500;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.cta-section span{
+    font-size: 14px;
+}
+.cta-section img{}
+
+ /****** brand-section ********/
+
+.brand{
+	background: #f1f4fb;
+	padding: 20px 100px;
+}
+.brand img{
+	width: 100px;
+}
+.brand h4{
+	margin-bottom: 30px;
+}
+.owl-carousel .owl-item img {
+    width: 50%;
+}
+.owl-carousel .owl-stage-outer {
+    padding: 0 50px;
+}
+
+/*problem-text */
+.problem-text, .solution-text{
+	margin-top: 30px;
+}
+.problem-text h3,
+.solution-text h3, 
+.result-text h3{
+    max-width: 445px;
+}
+.problem-text p, 
+.solution-text p, 
+.result-text p {
+    font-size: 14px;
+    max-width: 420px;
+}
+ /*result-section */
+
+ .result-section h3 span {
+    display: inline-block;
+    background: #cbeafe;
+    padding: 0 5px;
+}
+.result-text {
+    margin-top: 30px;
+ }
+ .result-text ul{
+    display: flex;
+    padding: 0;
+}
+ .result-text ul li{
+    width: 50%;
+}
+ .result-text ul li p{
+    margin: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+ .result-text ul li span{
+    font-size: 14px;
+}
+.testimonail {
+    width: 400px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    padding: 40px;
+    text-align: center;
+}
+.testimonail img{
+    display: block;
+    margin: 15px auto;
+}
+.testimonail strong{
+    margin-bottom: 10px;
+    display: block;
+}
+.testimonail p{
+    font-size: 14px;
+}
+
+ /*  summery-section */
+.summery-section p {
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+.color-bg {
+    background: #237be5;
+    color: #fff;
+}
+.color-bg .cta-btn {
+    background: #fff;
+    color: #237be5;
+}
+.color-bg .transparent-btn {
+    color: #fff;
+}
+.videio-section h3{
+    max-width: 445px;
+}
+.videio-section p{
+    max-width: 445px;
+    font-size: 14px;
+}
+footer {
+    background: #f1f4fb;
+    padding: 20px 0;
+}
+footer ul {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+footer ul li {
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
